@@ -7,5 +7,5 @@
 }
 ### Token
 {
-"jwt-token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTIzNDU2Nzg5LCJuYW1lIjoiSm9zZXBoIn0.OpOSSw7e485LOP5PrzScxHb7SR6sAOMRckfFwi4rp7o"
+"jwt-token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiYWRtaW4tZmxhZyJ9.XRFmbxnsQ-ermvUqDyTeMFntnKoMwDNSNvyxt3aaT0o"
 }
